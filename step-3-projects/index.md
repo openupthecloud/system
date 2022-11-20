@@ -5,14 +5,14 @@ To work on a project, you'll want to understand both Git (the technology) and Gi
 
 ## Git / GitHub
 
-**Resources:**
-- [Git and GitHub for Beginners - Crash Course](https://www.youtube.com/watch?v=RGOj5yH7evk)
-
 **Practice:**
 1. Making a GitHub Account
 1. Making a repo on your own account
 1. Making + commenting an issue
 1. Raising a pull request on your own repo
+
+**Resources:**
+- [Git and GitHub for Beginners - Crash Course](https://www.youtube.com/watch?v=RGOj5yH7evk)
 
 ## Docker
 
