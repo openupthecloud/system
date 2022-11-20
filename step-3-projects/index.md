@@ -25,3 +25,7 @@ Depending on the project you're building
 
 **Resources:**
 - [Docker Tutorial for Beginners - A Full DevOps Course on How to Run Applications in Containers](https://www.youtube.com/watch?v=fqMOX6JJhGo)
+- [Learn To Cloud Guide - Phase 1: Linux Bash and Networking fundamentals](https://learntocloud.guide/#/phase1/README?id=phase-1-linux-bash-and-networking-fundamentals)
+
+
+
