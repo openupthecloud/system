@@ -2,7 +2,7 @@
 
 ## Blogging 
 
-Blogging can be a great way to "give back" to the community, and is an opportunity to network. Often those new to publishing online content get too caught up with trying to pretend to be an "expert" and not just "documenting the process". Consider simply writing about what you're learning, what you're struggling with, and what questions you have. And don't forget to interact with others to help build your network. 
+Blogging can be a great way to "give back" to the community, and is an opportunity to network. Often those new to publishing online content get too caught up with trying to pretend to be an "expert" and not just "documenting the process". Additionally, social media can be draining when an account grows. However, meeting people on the same journey and those who have travelled the path you are trying to walk along can be useful. Consider simply writing about what you're learning, what you're struggling with, and what questions you have. And don't forget to interact with others to help build your network. 
 
 **Examples**
 
