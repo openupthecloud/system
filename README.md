@@ -1,9 +1,5 @@
 
-Hello friend, and welcome to the **Open Up The Cloud System**! 👋
-
-### Steps
-
-The system is broken down into 7 steps. You can start at any step, but if you feel "lost" return to the start and work back through each step to regain your confidence. 
+Hello friend, and welcome to the **Open Up The Cloud System**! 👋 The system is broken down into 7 steps. You can start at any step, but if you feel "lost" return to the start and work back through each step to regain your confidence. 
 
 - [Step 0: Getting Started](https://openupthecloud.github.io/system/step-0-getting-started)
 - [Step 1: Choosing a role](https://openupthecloud.github.io/system/step-1-roles)
