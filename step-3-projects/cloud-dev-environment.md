@@ -1,4 +1,4 @@
-# Project Idea: Cloud Development Environment
+# Project Idea: Cloud Environment
 
 **Overview:** Create your own custom development environment using technology like:
 
