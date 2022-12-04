@@ -8,7 +8,6 @@
 ### [Step 1 - Roles](step-1-roles/index.md)
 
 - [Choosing a role](step-1-roles/index.md)
-
 - [Backend Engineer](./step-1-roles/backend-engineer.md)                                              
 - [Cloud Engineer](./step-1-roles/cloud-engineer.md)                                                  
 - [Data Engineer](./step-1-roles/data-engineer.md)                                                    
@@ -30,9 +29,6 @@
 
 - [Finding projects to build](step-3-projects/index.md)
 - [Building basic skills](step-3-projects/building-basic-skills.md)
-
---
-
 - [Cloud Dev Environment](step-3-projects/cloud-dev-environment.md)
 - [Cloud Resume Challenge](step-3-projects/cloud-resume-challenge.md)
 
@@ -51,7 +47,6 @@
 ### Step 7: Giving Back
 
 - [Giving Back](step-7-giving-back/index.md)
-
 - [Blogging](step-7-giving-back/blogging.md)
 
 

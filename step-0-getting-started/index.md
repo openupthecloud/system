@@ -22,3 +22,5 @@ Beyond that, consider:
 However, this step is simply to get your hands dirty, and help you bring the cloud to life. 
 
 Skip to [Step 1: Roles](/step-1-roles/) when you want to start building your learning plan. 
+
+![](https://www.youtube.com/watch?v=zEstvzOgRHo&t=39s)
