@@ -1,5 +1,5 @@
 
-* [ Introduction ](README.md)
+* [ About the OUTC system ](README.md)
 
 ### Step 0: Getting Started
 

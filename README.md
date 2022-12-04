@@ -1,5 +1,13 @@
 
-Hello friend, and welcome to the **Open Up The Cloud System**! 👋 The system is broken down into 7 steps. You can start at any step, but if you feel "lost" return to the start and work back through each step to regain your confidence. 
+Hello friend, and welcome to the **Open Up The Cloud System**! 👋 
+
+## What is the Open Up The Cloud system?
+
+The system provides **a step-by-step guide to get your start and grow your career in cloud**. 
+
+The system doesn't comprise of much original content itself, but instead aims to give a structured overview for how to get into cloud, and links to any good existing content and communities. 
+
+The system is broken down into 7 steps. You can start at any step, but if you feel "lost" return to the start and work back through each step to regain your confidence. 
 
 - [Step 0: Getting started](https://openupthecloud.github.io/system/step-0-getting-started)
 - [Step 1: Choosing a role](https://openupthecloud.github.io/system/step-1-roles)
@@ -8,7 +16,7 @@ Hello friend, and welcome to the **Open Up The Cloud System**! 👋 The system i
 - [Step 4: Building your network](https://openupthecloud.github.io/system/step-4-networking)
 - [Step 5: Interviewing, resumes & portfolios](https://openupthecloud.github.io/system/step-5-interviews-resumes-portfolio)
 - [Step 5: Getting promoted](https://openupthecloud.github.io/system/step-6-getting-promoted)
-- [Step 7: Giving Back](https://openupthecloud.github.io/system/step-7-giving-back)
+- [Step 7: Giving back](https://openupthecloud.github.io/system/step-7-giving-back)
 
 ### Community
 
@@ -18,9 +26,13 @@ The system has a companion Slack community to help you on your journey. This com
 
 We look forward to sharing your **“I got the job!”** post!
 
-### Contribution
+### Got a cloud career question? 
 
-You can contribute to this, or any repo in the `openupthecloud` organisation, simply fork, open a PR, or raise an issue. 
+The content in this repository comes from community questions. If you have a question about cloud, or cloud careers that is not yet answered, please [raise an issue](https://github.com/openupthecloud/system/issues/new). 
+
+### Want to contribute?
+
+To contribute, simply fork, open a PR, or raise an issue. 
 
 ### FAQs
 
