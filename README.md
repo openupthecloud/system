@@ -14,10 +14,9 @@ Hello friend, and welcome to the **Open Up The Cloud System**! 👋 The system i
 
 The system has a companion Slack community to help you on your journey. This community is about building your career in cloud. Getting direction, building focus and discipline, and achieving whatever the goals you set yourself in tech, cloud and life. This community is not tech oriented. There are many other great communities for tech. This community exists more for career support and guidance. We’re here to support you in building an amazing life for yourself, your families and those around you. Learn more by reading the Open Up The Cloud [mission](https://openupthecloud.com/mission).
 
-We look forward to sharing your **“I got the job!”** post!
-
 *To apply to join the **Open Up The Cloud** community please [complete this form](https://openupthecloud.com/community).*
 
+We look forward to sharing your **“I got the job!”** post!
 
 ### Contribution
 
