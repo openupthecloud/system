@@ -1,5 +1,5 @@
 
-* [ 🏠Home ](README.md)
+* [ Home ](README.md)
 
 ### Step 0: Getting Started
 
@@ -8,6 +8,7 @@
 ### Step 1: Roles
 
 - [Overview](step-1-roles/index.md)
+- [Solutions Architect](step-1-roles/solutions-architect.md)
 
 ### Step 2: Certs
 
