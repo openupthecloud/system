@@ -5,13 +5,9 @@
 
 - [Getting Started](step-0-getting-started/index.md)
 
----
-
 ### [Step 1 - Roles](step-1-roles/index.md)
 
 - [Choosing a role](step-1-roles/index.md)
-
----
 
 - [Backend Engineer](./step-1-roles/backend-engineer.md)                                              
 - [Cloud Engineer](./step-1-roles/cloud-engineer.md)                                                  
@@ -44,25 +40,17 @@
 
 - [Building your network](step-4-networking/index.md)
 
----
-
 ### Step 5: Interviews, Resumes, Portfolio
 
 - [Interviews, Resumes & Portfolios](step-5-interviews-resumes-portfolio/index.md)
-
----
 
 ### Step 6: Getting Promoted
 
 - [Getting Promoted](step-6-getting-promoted/index.md)
 
----
-
 ### Step 7: Giving Back
 
 - [Giving Back](step-7-giving-back/index.md)
-
----
 
 - [Blogging](step-7-giving-back/blogging.md)
 

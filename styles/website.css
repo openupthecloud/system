@@ -1,0 +1,48 @@
+@import url("https://fonts.googleapis.com/css?family=Montserrat:500,700,900");
+
+body {
+    font: 16px "Open Sans", sans-serif;
+}
+
+.book-summary {
+    background-color: #1c2c5b;
+}
+
+.book-summary ul.summary li.header {
+    color: #37bae5;
+    font-weight: 900;
+    font-family: "Montserrat";
+}
+
+h1,
+h2,
+h3,
+h4,
+h5 {
+    font-family: "Montserrat";
+}
+
+.book-summary ul.summary li a {
+    color: white;
+    padding-left: 6%;
+    font-weight: 500;
+}
+
+.book-summary ul.summary li.active>a {
+    background-color: #37bae5;
+    color: #1c2c5b;
+    font-weight: 900;
+}
+
+.body-inner p>a,
+.body-inner li>a {
+    text-decoration: none;
+    color: inherit;
+    box-shadow: inset 0 -6px 0 #c0e6f7;
+}
+
+.book-summary ul.summary li a:hover {
+    background-color: #37bae5;
+    color: white;
+    text-decoration: none;
+}
