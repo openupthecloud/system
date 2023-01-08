@@ -5,3 +5,4 @@
 - [gitpod.io]([url](http://gitpod.io/))
 - [GitHub Codespaces]([url](https://github.com/features/codespaces))
 - [devcontainer](https://code.visualstudio.com/docs/devcontainers/containers)
+- [Gitpod Course](https://www.youtube.com/watch?v=XcjqapXfrhk)
