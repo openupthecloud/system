@@ -14,8 +14,8 @@ To get hands on:
 
 Beyond that, consider:
 
-1. **Terraform** -
-2. **GitHub Actions** - 
+1. **Terraform** - A widely adopted infrastructure as code tool. 
+2. **GitHub Actions** - A widely adopted continuous integration tool. 
 
 <!-- TODO: Create dev-enved projects to start with here -->
 

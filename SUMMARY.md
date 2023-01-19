@@ -27,8 +27,7 @@
 
 ### Step 3: Projects
 
-- [Finding projects to build](step-3-projects/index.md)
-- [Building basic skills](step-3-projects/building-basic-skills.md)
+- [Choosing a project](step-3-projects/index.md)
 - [Cloud Dev Environment](step-3-projects/cloud-dev-environment.md)
 - [Cloud Resume Challenge](step-3-projects/cloud-resume-challenge.md)
 
