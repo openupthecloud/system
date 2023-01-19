@@ -7,16 +7,17 @@ The system provides **a step-by-step guide to get your start and grow your caree
 
 The system doesn't comprise of much original content itself, but instead aims to give a structured overview for how to get into cloud, and links to any good existing content and communities. 
 
-The system is broken down into 7 steps. You can start at any step, but if you feel "lost" return to the start and work back through each step to regain your confidence. 
+The system is broken down into several steps. You can start at any step, but if you feel "lost" return to the start and work back through each step to regain your confidence. 
 
-- [Step 0: Getting started](https://openupthecloud.github.io/system/step-0-getting-started)
-- [Step 1: Choosing a role](https://openupthecloud.github.io/system/step-1-roles)
-- [Step 2: Choosing certifications](https://openupthecloud.github.io/system/step-2-certs)
-- [Step 3: Finding projects to build](https://openupthecloud.github.io/system/step-3-projects)
-- [Step 4: Building your network](https://openupthecloud.github.io/system/step-4-networking)
-- [Step 5: Interviewing, resumes & portfolios](https://openupthecloud.github.io/system/step-5-interviews-resumes-portfolio)
-- [Step 5: Getting promoted](https://openupthecloud.github.io/system/step-6-getting-promoted)
-- [Step 7: Giving back](https://openupthecloud.github.io/system/step-7-giving-back)
+- [Getting started](https://openupthecloud.github.io/system/getting-started)
+- [Choosing roles](https://openupthecloud.github.io/system/roles)
+- [Choosing skills](https://openupthecloud.github.io/system/skills)
+- [Choosing certifications](https://openupthecloud.github.io/system/certs)
+- [Choosing projects](https://openupthecloud.github.io/system/projects)
+- [Building your network](https://openupthecloud.github.io/system/networking)
+- [Interviewing, resumes & portfolios](https://openupthecloud.github.io/system/interviews-resumes-portfolio)
+- [Getting promoted](https://openupthecloud.github.io/system/getting-promoted)
+- [Giving back](https://openupthecloud.github.io/system/giving-back)
 
 ### Community
 

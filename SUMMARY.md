@@ -1,52 +1,57 @@
 
 * [ About the OUTC system ](README.md)
 
-### Step 0: Getting Started
+### Getting Started
 
-- [Getting Started](step-0-getting-started/index.md)
+- [Getting Started](getting-started/index.md)
 
-### [Step 1 - Roles](step-1-roles/index.md)
+### [Roles](roles/index.md)
 
-- [Choosing a role](step-1-roles/index.md)
-- [Backend Engineer](./step-1-roles/backend-engineer.md)                                              
-- [Cloud Engineer](./step-1-roles/cloud-engineer.md)                                                  
-- [Data Engineer](./step-1-roles/data-engineer.md)                                                    
-- [Devops Engineer](./step-1-roles/devops-engineer.md)                                                
-- [Frontend Engineer](./step-1-roles/frontend-engineer.md)                                            
-- [Security Engineer](./step-1-roles/security-engineer.md)                                            
-- [Solutions Architect - Associate](./step-1-roles/solutions-architect-associate.md)           
-- [Solutions Architect - Traditional](./step-1-roles/solutions-architect-traditional.md) 
-- [Support / Helpdesk](./step-1-roles/support-helpdesk.md)                                            
-- [Product Manager](./step-1-roles/product-manager.md)                                                
-- [Quality Assurance - Engineer](./step-1-roles/quality-assurance-engineer.md)
-- [Quality Assurance - Manual](./step-1-roles/quality-assurance-manual.md)
+- [Choosing a role](roles/index.md)
+- [Backend Engineer](./roles/backend-engineer.md)                                              
+- [Cloud Engineer](./roles/cloud-engineer.md)                                                  
+- [Data Engineer](./roles/data-engineer.md)                                                    
+- [Devops Engineer](./roles/devops-engineer.md)                                                
+- [Frontend Engineer](./roles/frontend-engineer.md)                                            
+- [Security Engineer](./roles/security-engineer.md)                                            
+- [Solutions Architect - Associate](./roles/solutions-architect-associate.md)           
+- [Solutions Architect - Traditional](./roles/solutions-architect-traditional.md) 
+- [Support / Helpdesk](./roles/support-helpdesk.md)                                            
+- [Product Manager](./roles/product-manager.md)                                                
+- [Quality Assurance - Engineer](./roles/quality-assurance-engineer.md)
+- [Quality Assurance - Manual](./roles/quality-assurance-manual.md)
 
-### Step 2: Certs
+### Skills
 
-- [Choosing Certifications](step-2-certs/index.md)
+- [Choosing Skills](skills/index.md)
 
-### Step 3: Projects
+### Certs
 
-- [Choosing a project](step-3-projects/index.md)
-- [Cloud Dev Environment](step-3-projects/cloud-dev-environment.md)
-- [Cloud Resume Challenge](step-3-projects/cloud-resume-challenge.md)
+- [Choosing Certifications](certs/index.md)
 
-### Step 4: Networking
+### Projects
 
-- [Building your network](step-4-networking/index.md)
+- [Choosing a project](projects/index.md)
+- [Cloud Dev Environment](projects/cloud-dev-environment.md)
+- [Cloud Resume Challenge](projects/cloud-resume-challenge.md)
+- [Adrian Cantrill Labs](projects/adrian-cantrill-labs.md)
 
-### Step 5: Interviews, Resumes, Portfolio
+### Networking
 
-- [Interviews, Resumes & Portfolios](step-5-interviews-resumes-portfolio/index.md)
+- [Building your network](networking/index.md)
 
-### Step 6: Getting Promoted
+### Interviews, Resumes, Portfolio
 
-- [Getting Promoted](step-6-getting-promoted/index.md)
+- [Interviews, Resumes & Portfolios](interviews-resumes-portfolio/index.md)
 
-### Step 7: Giving Back
+### Getting Promoted
 
-- [Giving Back](step-7-giving-back/index.md)
-- [Blogging](step-7-giving-back/blogging.md)
+- [Getting Promoted](getting-promoted/index.md)
+
+### Giving Back
+
+- [Giving Back](giving-back/index.md)
+- [Blogging](giving-back/blogging.md)
 
 
 Created by **Open Up The Cloud**. 
