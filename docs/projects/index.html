@@ -569,18 +569,64 @@
 <h2 id="building-basic-skills">Building Basic Skills</h2>
 <p>Before you dive into a project, you&apos;ll probably need to understand Git and GitHub. </p>
 <h2 id="git--github">Git / GitHub</h2>
-<p><strong>Practice:</strong></p>
-<ol>
-<li>Making a GitHub Account</li>
-<li>Making a repo on your own GitHub account</li>
-<li>Making + commenting an issue</li>
-<li>Raising a pull request on your own repo</li>
-<li>Leaving comments on a pull request, approving, merging.</li>
-</ol>
-<p><strong>Resources:</strong></p>
+<h3 id="why-git-what-is-git">Why Git? What is Git?</h3>
 <ul>
-<li><a href="https://www.youtube.com/watch?v=RGOj5yH7evk" target="_blank">Git and GitHub for Beginners - Crash Course</a></li>
+<li><code>git</code> command-line tool <code>github</code> the company </li>
+<li><code>git</code> is the open-source library (found here: <a href="https://github.com/git/git" target="_blank">https://github.com/git/git</a>)</li>
+<li>Around ~75% of companies use GitHub + Git is primary VCS</li>
+<li>Alternatives to Git + GitHub are: SVN, Gerrit, AWS CodeCommit.</li>
+<li>Allows you to Return to a previous version of an application</li>
 </ul>
+<h3 id="key-concepts">Key Concepts</h3>
+<ul>
+<li>Branches, Pull Request (GitHub), Commits (&quot;Save&quot;), Tags (Version)</li>
+<li>&quot;Branch Strategy&quot;<ul>
+<li><a href="https://i0.wp.com/lanziani.com/slides/gitflow/images/gitflow_1.png" target="_blank">GitHub Flow</a></li>
+<li><a href="https://littlekendra.com/images/release-flow.png" target="_blank">Basic Flow</a></li>
+</ul>
+</li>
+</ul>
+<h3 id="who-needs-to-know-git">Who needs to know Git?</h3>
+<ul>
+<li><strong>Should know (e.g. uses git day-to-day)</strong>: DevOps, Cloud Engineers, Software Engineers (front-end, back-end).</li>
+<li><strong>Nice to have (e.g. not using day-to-day)</strong>: Solutions Architect, Cloud Support.</li>
+</ul>
+<h3 id="main-things-to-know">Main things to know</h3>
+<p><strong>The simple + basic flow</strong></p>
+<ol>
+<li><code>git add file.txt</code> =&gt; Tells git to prepare to be committed.</li>
+<li><code>git commit -m &quot;a message&quot;</code> =&gt; Saves the change.</li>
+<li><code>git push</code> =&gt; Syncs the change with GitHub.</li>
+</ol>
+<p><strong>Useful other commands</strong></p>
+<ul>
+<li><code>git status</code> =&gt; This is &quot;home base&quot; on your current state. </li>
+<li><code>git push --set-upstream origin garcia-adding-search-feature</code> =&gt; Pushes a local branch to remote GitHub. </li>
+</ul>
+<h3 id="things-to-practice">Things to practice</h3>
+<ol>
+<li>Create a repo (e.g. a website)</li>
+<li>Create a branch (e.g. <code>task-1</code>)</li>
+<li>Add files, modify files, delete files</li>
+<li>Commit changes</li>
+<li>Push changes</li>
+<li>Raise pull requests, merge pull requests</li>
+</ol>
+<p><strong>Take the following scenario:</strong> </p>
+<ul>
+<li>You are an employee asked to &quot;make a website for clothing&quot;. </li>
+<li>Go and create the clothing website <code>repo</code>. </li>
+<li>Your first task is to create a &quot;homepage&quot;. </li>
+<li>Create a <code>branch</code> for your new task and add a <code>homepage.txt</code>. </li>
+<li><code>Push</code> the changes and open a pull request. </li>
+<li>Comment your own pull request as your &quot;colleague&quot;, who asks you to add an image to the homepage.</li>
+<li>Add a file &quot;image.txt&quot; and update the &quot;homepage.txt&quot; content. </li>
+<li><code>Commit</code> and push this change. </li>
+<li>Review your pull request. </li>
+<li>Approve the pull request. </li>
+<li><code>Merge</code> the pull request. </li>
+</ul>
+<p>Repeat the above until you feel more comfortable! </p>
 <h2 id="docker">Docker</h2>
 <p>Depending on the project you&apos;re building</p>
 <p><strong>Practice:</strong></p>
@@ -649,7 +695,7 @@
     <script>
         var gitbook = gitbook || [];
         gitbook.push(function() {
-            gitbook.page.hasChanged({"page":{"title":"Choosing a project","level":"6.1","depth":1,"next":{"title":"Cloud Dev Environment","level":"6.2","depth":1,"path":"projects/cloud-dev-environment.md","ref":"projects/cloud-dev-environment.md","articles":[]},"previous":{"title":"Choosing Certifications","level":"5.1","depth":1,"path":"certs/index.md","ref":"certs/index.md","articles":[]},"dir":"ltr"},"config":{"gitbook":"*","theme":"default","variables":{},"plugins":[],"pluginsConfig":{"highlight":{},"search":{},"lunr":{"maxIndexSize":1000000,"ignoreSpecialCharacters":false},"sharing":{"facebook":true,"twitter":true,"google":false,"weibo":false,"instapaper":false,"vk":false,"all":["facebook","google","twitter","weibo","instapaper"]},"fontsettings":{"theme":"white","family":"sans","size":2},"theme-default":{"styles":{"website":"styles/website.css","pdf":"styles/pdf.css","epub":"styles/epub.css","mobi":"styles/mobi.css","ebook":"styles/ebook.css","print":"styles/print.css"},"showLevel":false}},"structure":{"langs":"LANGS.md","readme":"README.md","glossary":"GLOSSARY.md","summary":"SUMMARY.md"},"pdf":{"pageNumbers":true,"fontSize":12,"fontFamily":"Arial","paperSize":"a4","chapterMark":"pagebreak","pageBreaksBefore":"/","margin":{"right":62,"left":62,"top":56,"bottom":56}},"styles":{"website":"styles/website.css","pdf":"styles/pdf.css","epub":"styles/epub.css","mobi":"styles/mobi.css","ebook":"styles/ebook.css","print":"styles/print.css"}},"file":{"path":"projects/index.md","mtime":"2023-01-19T20:17:48.656Z","type":"markdown"},"gitbook":{"version":"3.2.3","time":"2023-01-19T20:29:14.601Z"},"basePath":"..","book":{"language":""}});
+            gitbook.page.hasChanged({"page":{"title":"Choosing a project","level":"6.1","depth":1,"next":{"title":"Cloud Dev Environment","level":"6.2","depth":1,"path":"projects/cloud-dev-environment.md","ref":"projects/cloud-dev-environment.md","articles":[]},"previous":{"title":"Choosing Certifications","level":"5.1","depth":1,"path":"certs/index.md","ref":"certs/index.md","articles":[]},"dir":"ltr"},"config":{"gitbook":"*","theme":"default","variables":{},"plugins":[],"pluginsConfig":{"highlight":{},"search":{},"lunr":{"maxIndexSize":1000000,"ignoreSpecialCharacters":false},"sharing":{"facebook":true,"twitter":true,"google":false,"weibo":false,"instapaper":false,"vk":false,"all":["facebook","google","twitter","weibo","instapaper"]},"fontsettings":{"theme":"white","family":"sans","size":2},"theme-default":{"styles":{"website":"styles/website.css","pdf":"styles/pdf.css","epub":"styles/epub.css","mobi":"styles/mobi.css","ebook":"styles/ebook.css","print":"styles/print.css"},"showLevel":false}},"structure":{"langs":"LANGS.md","readme":"README.md","glossary":"GLOSSARY.md","summary":"SUMMARY.md"},"pdf":{"pageNumbers":true,"fontSize":12,"fontFamily":"Arial","paperSize":"a4","chapterMark":"pagebreak","pageBreaksBefore":"/","margin":{"right":62,"left":62,"top":56,"bottom":56}},"styles":{"website":"styles/website.css","pdf":"styles/pdf.css","epub":"styles/epub.css","mobi":"styles/mobi.css","ebook":"styles/ebook.css","print":"styles/print.css"}},"file":{"path":"projects/index.md","mtime":"2023-01-23T12:56:05.866Z","type":"markdown"},"gitbook":{"version":"3.2.3","time":"2023-01-23T12:57:15.779Z"},"basePath":"..","book":{"language":""}});
         });
     </script>
 </div>
