@@ -53,16 +53,8 @@ Before you dive into a project, you'll probably need to understand Git and GitHu
 * `git status` => This is "home base" on your current state. 
 * `git push --set-upstream origin garcia-adding-search-feature` => Pushes a local branch to remote GitHub. 
 
-### Things to practice
+### Practice (example scenario)
 
-1. Create a repo (e.g. a website)
-2. Create a branch (e.g. `task-1`)
-3. Add files, modify files, delete files
-4. Commit changes
-5. Push changes
-6. Raise pull requests, merge pull requests
-
-**Take the following scenario:** 
 * You are an employee asked to "make a website for clothing". 
 * Go and create the clothing website `repo`. 
 * Your first task is to create a "homepage". 
