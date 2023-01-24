@@ -59,7 +59,7 @@
     <link rel="shortcut icon" href="../gitbook/images/favicon.ico" type="image/x-icon">
 
     
-    <link rel="next" href="cloud-dev-environment.html" />
+    <link rel="next" href="building-foundational-skills.html" />
     
     
     <link rel="prev" href="../certs/" />
@@ -360,12 +360,12 @@
             
         </li>
     
-        <li class="chapter " data-level="6.2" data-path="cloud-dev-environment.html">
+        <li class="chapter " data-level="6.2" data-path="building-foundational-skills.html">
             
-                <a href="cloud-dev-environment.html">
+                <a href="building-foundational-skills.html">
             
                     
-                    Cloud Dev Environment
+                    Building Foundational Skills
             
                 </a>
             
@@ -373,25 +373,12 @@
             
         </li>
     
-        <li class="chapter " data-level="6.3" data-path="cloud-resume-challenge.html">
+        <li class="chapter " data-level="6.3" data-path="faqs.html">
             
-                <a href="cloud-resume-challenge.html">
-            
-                    
-                    Cloud Resume Challenge
-            
-                </a>
-            
-
-            
-        </li>
-    
-        <li class="chapter " data-level="6.4" data-path="adrian-cantrill-labs.html">
-            
-                <a href="adrian-cantrill-labs.html">
+                <a href="faqs.html">
             
                     
-                    Adrian Cantrill Labs
+                    FAQs
             
                 </a>
             
@@ -538,111 +525,79 @@
                                 <section class="normal markdown-section">
                                 
                                 <h1 id="choosing-a-project">Choosing A Project</h1>
+<h2 id="full-projects">Full Projects</h2>
+<p>The following are full &quot;projects&quot; these are full project specifications that you can follow as a project for yourself. </p>
 <table>
 <thead>
 <tr>
 <th>Project Name</th>
 <th>Suitable for Beginners?</th>
+<th>Good for?</th>
 </tr>
 </thead>
 <tbody>
 <tr>
-<td><a href="cloud-resume-challenge.html">Cloud Resume Challenge</a></td>
+<td><a href="cloud-resume-challenge.md">Cloud Resume Challenge</a></td>
 <td>Yes</td>
+<td>Serverless speciality, Generic project</td>
 </tr>
 <tr>
-<td><a href="cloud-dev-environment.html">Cloud Dev Environment</a></td>
+<td><a href="https://cloudresumechallenge.dev/docs/extensions/aws-networking/" target="_blank">Cloud Resume Challenge - Traditional Architecure</a></td>
 <td>Yes</td>
-</tr>
-<tr>
-<td><a href="adrian-cantrill-labs.html">Adrian Cantrill Labs</a></td>
-<td>Yes</td>
+<td>Project ideas</td>
 </tr>
 </tbody>
 </table>
-<p><strong>Useful Resources</strong></p>
-<ul>
-<li><a href="https://www.udemy.com/course/devopsprojects/?src=sac&amp;kw=devops+projects" target="_blank">Udemy DevOps Projects Course</a></li>
-<li><a href="https://www.techchak.com/" target="_blank">TechChak</a></li>
-<li><a href="https://www.darey.io/" target="_blank">Darey</a></li>
-</ul>
-<h2 id="building-basic-skills">Building Basic Skills</h2>
-<p>Before you dive into a project, you&apos;ll probably need to understand Git and GitHub. </p>
-<h2 id="git--github">Git / GitHub</h2>
-<h3 id="why-git-what-is-git">Why Git? What is Git?</h3>
-<ul>
-<li><code>git</code> command-line tool <code>github</code> the company </li>
-<li><code>git</code> is the open-source library (found here: <a href="https://github.com/git/git" target="_blank">https://github.com/git/git</a>)</li>
-<li>Around ~75% of companies use GitHub + Git is primary VCS</li>
-<li>Alternatives to Git + GitHub are: SVN, Gerrit, AWS CodeCommit.</li>
-<li>Allows you to Return to a previous version of an application</li>
-</ul>
-<h3 id="key-concepts">Key Concepts</h3>
-<ul>
-<li>Branches, Pull Request (GitHub), Commits (&quot;Save&quot;), Tags (Version)</li>
-<li>&quot;Branch Strategy&quot;<ul>
-<li><a href="https://i0.wp.com/lanziani.com/slides/gitflow/images/gitflow_1.png" target="_blank">GitHub Flow</a></li>
-<li><a href="https://littlekendra.com/images/release-flow.png" target="_blank">Basic Flow</a></li>
-</ul>
-</li>
-</ul>
-<h3 id="who-needs-to-know-git">Who needs to know Git?</h3>
-<ul>
-<li><strong>Should know (e.g. uses git day-to-day)</strong>: DevOps, Cloud Engineers, Software Engineers (front-end, back-end).</li>
-<li><strong>Nice to have (e.g. not using day-to-day)</strong>: Solutions Architect, Cloud Support.</li>
-</ul>
-<h3 id="main-things-to-know">Main things to know</h3>
-<p><strong>The simple + basic flow</strong></p>
-<ol>
-<li><code>git add file.txt</code> =&gt; Tells git to prepare to be committed.</li>
-<li><code>git commit -m &quot;a message&quot;</code> =&gt; Saves the change.</li>
-<li><code>git push</code> =&gt; Syncs the change with GitHub.</li>
-</ol>
-<p><strong>Useful other commands</strong></p>
-<ul>
-<li><code>git status</code> =&gt; This is &quot;home base&quot; on your current state. </li>
-<li><code>git push --set-upstream origin garcia-adding-search-feature</code> =&gt; Pushes a local branch to remote GitHub. </li>
-</ul>
-<h3 id="practice-example-scenario">Practice (example scenario)</h3>
-<ul>
-<li>You are an employee asked to &quot;make a website for clothing&quot;. </li>
-<li>Go and create the clothing website <code>repo</code>. </li>
-<li>Your first task is to create a &quot;homepage&quot;. </li>
-<li>Create a <code>branch</code> for your new task and add a <code>homepage.txt</code>. </li>
-<li><code>Push</code> the changes and open a pull request. </li>
-<li>Comment your own pull request as your &quot;colleague&quot;, who asks you to add an image to the homepage.</li>
-<li>Add a file &quot;image.txt&quot; and update the &quot;homepage.txt&quot; content. </li>
-<li><code>Commit</code> and push this change. </li>
-<li>Review your pull request. </li>
-<li>Approve the pull request. </li>
-<li><code>Merge</code> the pull request. </li>
-</ul>
-<p>Repeat the above until you feel more comfortable! </p>
-<h2 id="docker">Docker</h2>
-<p>Depending on the project you&apos;re building</p>
-<p><strong>Practice:</strong></p>
-<ol>
-<li>Installing the <code>docker</code> CLI on your machine</li>
-<li>Pulling a docker image from DockerHub</li>
-<li>Writing your own Dockerfile</li>
-</ol>
-<p><strong>Resources:</strong></p>
-<ul>
-<li><a href="https://www.youtube.com/watch?v=fqMOX6JJhGo" target="_blank">Docker Tutorial for Beginners - A Full DevOps Course on How to Run Applications in Containers</a></li>
-<li><a href="https://learntocloud.guide/#/phase4/README" target="_blank">Learn To Cloud Guide - Phase 4: DevOps Fundamentals</a> </li>
-</ul>
-<h2 id="shell-scripting">Shell scripting</h2>
-<p><strong>Practice:</strong></p>
-<ol>
-<li>Writing a short shell script</li>
-<li>Try to: print a strings</li>
-<li>Try to: do basic arithmatic, e.g. addition, subtraction</li>
-</ol>
-<p><strong>Resources:</strong></p>
-<ul>
-<li><a href="https://learntocloud.guide/#/phase1/README?id=phase-1-linux-bash-and-networking-fundamentals" target="_blank">Learn To Cloud Guide - Phase 1: Linux Bash and Networking fundamentals</a></li>
-<li><a href="https://www.youtube.com/watch?v=7qd5sqazD7k" target="_blank">Bash scripting will change your life</a></li>
-</ul>
+<h2 id="project-inspirations">Project Inspirations</h2>
+<p>The following are GitHub projects, collections of labs, etc. These are not &quot;whole projects&quot; or specifications, but could</p>
+<!-- TODO: Add descriptions -->
+<!-- TODO: Review some platforms to extract out -->
+<table>
+<thead>
+<tr>
+<th>Project Name</th>
+<th>Project Name</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td><a href="https://github.com/thyagomota/aws-labs" target="_blank">AWS Labs</a></td>
+<td>GitHub Repo</td>
+</tr>
+<tr>
+<td><a href="adrian-cantrill-labs.md">Adrian Cantrill Labs</a></td>
+<td>GitHub Repo</td>
+</tr>
+<tr>
+<td><a href="https://www.udemy.com/course/devopsprojects/?src=sac&amp;kw=devops+projects" target="_blank">Udemy DevOps Projects Course</a></td>
+<td>Training Course</td>
+</tr>
+<tr>
+<td><a href="https://www.techchak.com/" target="_blank">TechChak</a></td>
+<td>Training Company</td>
+</tr>
+<tr>
+<td><a href="https://www.darey.io/" target="_blank">Darey</a></td>
+<td>Training Company</td>
+</tr>
+</tbody>
+</table>
+<h2 id="example-projects">Example Projects</h2>
+<p>The following are &quot;completed projects&quot; that can serve as examples for your own project.</p>
+<table>
+<thead>
+<tr>
+<th>Project Name</th>
+<th>Description</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td><a href="https://github.com/openupthecloud/open-cloud-dev-box" target="_blank">Open Cloud Dev Box</a></td>
+<td>Scripted cloud environment using Docker, Devcontainer, Bash, Linux and other tools</td>
+</tr>
+</tbody>
+</table>
 
                                 
                                 </section>
@@ -675,7 +630,7 @@
                 </a>
                 
                 
-                <a href="cloud-dev-environment.html" class="navigation navigation-next " aria-label="Next page: Cloud Dev Environment">
+                <a href="building-foundational-skills.html" class="navigation navigation-next " aria-label="Next page: Building Foundational Skills">
                     <i class="fa fa-angle-right"></i>
                 </a>
                 
@@ -686,7 +641,7 @@
     <script>
         var gitbook = gitbook || [];
         gitbook.push(function() {
-            gitbook.page.hasChanged({"page":{"title":"Choosing a project","level":"6.1","depth":1,"next":{"title":"Cloud Dev Environment","level":"6.2","depth":1,"path":"projects/cloud-dev-environment.md","ref":"projects/cloud-dev-environment.md","articles":[]},"previous":{"title":"Choosing Certifications","level":"5.1","depth":1,"path":"certs/index.md","ref":"certs/index.md","articles":[]},"dir":"ltr"},"config":{"gitbook":"*","theme":"default","variables":{},"plugins":[],"pluginsConfig":{"highlight":{},"search":{},"lunr":{"maxIndexSize":1000000,"ignoreSpecialCharacters":false},"sharing":{"facebook":true,"twitter":true,"google":false,"weibo":false,"instapaper":false,"vk":false,"all":["facebook","google","twitter","weibo","instapaper"]},"fontsettings":{"theme":"white","family":"sans","size":2},"theme-default":{"styles":{"website":"styles/website.css","pdf":"styles/pdf.css","epub":"styles/epub.css","mobi":"styles/mobi.css","ebook":"styles/ebook.css","print":"styles/print.css"},"showLevel":false}},"structure":{"langs":"LANGS.md","readme":"README.md","glossary":"GLOSSARY.md","summary":"SUMMARY.md"},"pdf":{"pageNumbers":true,"fontSize":12,"fontFamily":"Arial","paperSize":"a4","chapterMark":"pagebreak","pageBreaksBefore":"/","margin":{"right":62,"left":62,"top":56,"bottom":56}},"styles":{"website":"styles/website.css","pdf":"styles/pdf.css","epub":"styles/epub.css","mobi":"styles/mobi.css","ebook":"styles/ebook.css","print":"styles/print.css"}},"file":{"path":"projects/index.md","mtime":"2023-01-23T12:58:28.914Z","type":"markdown"},"gitbook":{"version":"3.2.3","time":"2023-01-23T12:58:39.777Z"},"basePath":"..","book":{"language":""}});
+            gitbook.page.hasChanged({"page":{"title":"Choosing a project","level":"6.1","depth":1,"next":{"title":"Building Foundational Skills","level":"6.2","depth":1,"path":"projects/building-foundational-skills.md","ref":"projects/building-foundational-skills.md","articles":[]},"previous":{"title":"Choosing Certifications","level":"5.1","depth":1,"path":"certs/index.md","ref":"certs/index.md","articles":[]},"dir":"ltr"},"config":{"gitbook":"*","theme":"default","variables":{},"plugins":[],"pluginsConfig":{"highlight":{},"search":{},"lunr":{"maxIndexSize":1000000,"ignoreSpecialCharacters":false},"sharing":{"facebook":true,"twitter":true,"google":false,"weibo":false,"instapaper":false,"vk":false,"all":["facebook","google","twitter","weibo","instapaper"]},"fontsettings":{"theme":"white","family":"sans","size":2},"theme-default":{"styles":{"website":"styles/website.css","pdf":"styles/pdf.css","epub":"styles/epub.css","mobi":"styles/mobi.css","ebook":"styles/ebook.css","print":"styles/print.css"},"showLevel":false}},"structure":{"langs":"LANGS.md","readme":"README.md","glossary":"GLOSSARY.md","summary":"SUMMARY.md"},"pdf":{"pageNumbers":true,"fontSize":12,"fontFamily":"Arial","paperSize":"a4","chapterMark":"pagebreak","pageBreaksBefore":"/","margin":{"right":62,"left":62,"top":56,"bottom":56}},"styles":{"website":"styles/website.css","pdf":"styles/pdf.css","epub":"styles/epub.css","mobi":"styles/mobi.css","ebook":"styles/ebook.css","print":"styles/print.css"}},"file":{"path":"projects/index.md","mtime":"2023-01-24T09:00:53.406Z","type":"markdown"},"gitbook":{"version":"3.2.3","time":"2023-01-24T09:01:50.992Z"},"basePath":"..","book":{"language":""}});
         });
     </script>
 </div>

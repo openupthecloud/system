@@ -32,9 +32,16 @@
 ### Projects
 
 - [Choosing a project](projects/index.md)
+- [Building Foundational Skills](projects/building-foundational-skills.md)
+- [FAQs](projects/faqs.md)
+
+<!-- TODO: Update these pages to bring them back -->
+
+<!-- 
 - [Cloud Dev Environment](projects/cloud-dev-environment.md)
 - [Cloud Resume Challenge](projects/cloud-resume-challenge.md)
-- [Adrian Cantrill Labs](projects/adrian-cantrill-labs.md)
+- [Adrian Cantrill Labs](projects/adrian-cantrill-labs.md) 
+-->
 
 ### Networking
 

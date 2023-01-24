@@ -4,7 +4,7 @@
     <head>
         <meta charset="UTF-8">
         <meta content="text/html; charset=utf-8" http-equiv="Content-Type">
-        <title>Adrian Cantrill Labs · GitBook</title>
+        <title>Building Foundational Skills · GitBook</title>
         <meta http-equiv="X-UA-Compatible" content="IE=edge" />
         <meta name="description" content="">
         <meta name="generator" content="GitBook 3.2.3">
@@ -59,10 +59,10 @@
     <link rel="shortcut icon" href="../gitbook/images/favicon.ico" type="image/x-icon">
 
     
-    <link rel="next" href="../networking/" />
+    <link rel="next" href="faqs.html" />
     
     
-    <link rel="prev" href="cloud-resume-challenge.html" />
+    <link rel="prev" href="./" />
     
 
     </head>
@@ -360,12 +360,12 @@
             
         </li>
     
-        <li class="chapter " data-level="6.2" data-path="cloud-dev-environment.html">
+        <li class="chapter active" data-level="6.2" data-path="building-foundational-skills.html">
             
-                <a href="cloud-dev-environment.html">
+                <a href="building-foundational-skills.html">
             
                     
-                    Cloud Dev Environment
+                    Building Foundational Skills
             
                 </a>
             
@@ -373,25 +373,12 @@
             
         </li>
     
-        <li class="chapter " data-level="6.3" data-path="cloud-resume-challenge.html">
+        <li class="chapter " data-level="6.3" data-path="faqs.html">
             
-                <a href="cloud-resume-challenge.html">
-            
-                    
-                    Cloud Resume Challenge
-            
-                </a>
-            
-
-            
-        </li>
-    
-        <li class="chapter active" data-level="6.4" data-path="adrian-cantrill-labs.html">
-            
-                <a href="adrian-cantrill-labs.html">
+                <a href="faqs.html">
             
                     
-                    Adrian Cantrill Labs
+                    FAQs
             
                 </a>
             
@@ -522,7 +509,7 @@
     <!-- Title -->
     <h1>
         <i class="fa fa-circle-o-notch fa-spin"></i>
-        <a href=".." >Adrian Cantrill Labs</a>
+        <a href=".." >Building Foundational Skills</a>
     </h1>
 </div>
 
@@ -537,10 +524,87 @@
     
                                 <section class="normal markdown-section">
                                 
-                                <h1 id="project-idea-adrian-cantrill-labs">Project Idea: Adrian Cantrill Labs</h1>
-<p><strong>Project Overview:</strong> A collection of labs to build &quot;real life&quot; cloud projects. </p>
+                                <h2 id="building-foundational-skills-for-projects">Building Foundational Skills for Projects</h2>
+<p>It will be difficult to start building projects without some foundational knowledge. Below are three general skills </p>
+<ol>
+<li><strong>Git + GitHub</strong> - The most important, nearly all projects will be on GitHub.</li>
+<li><strong>Shell Scripting</strong> - Somewhat important, a useful skill for most projects.</li>
+<li><strong>Docker</strong> - A popular tool for packaging applications, will be a useful foundational skill for many cloud roles.</li>
+</ol>
+<h3 id="git--github">Git / GitHub</h3>
+<h4 id="why-git-what-is-git">Why Git? What is Git?</h4>
 <ul>
-<li><a href="https://github.com/acantril/learn-cantrill-io-labs" target="_blank">Link to labs</a></li>
+<li><code>git</code> command-line tool <code>github</code> the company </li>
+<li><code>git</code> is the open-source library (found here: <a href="https://github.com/git/git" target="_blank">https://github.com/git/git</a>)</li>
+<li>Around ~75% of companies use GitHub + Git is primary VCS</li>
+<li>Alternatives to Git + GitHub are: SVN, Gerrit, AWS CodeCommit.</li>
+<li>Allows you to Return to a previous version of an application</li>
+</ul>
+<h4 id="key-concepts">Key Concepts</h4>
+<ul>
+<li>Branches, Pull Request (GitHub), Commits (&quot;Save&quot;), Tags (Version)</li>
+<li>&quot;Branch Strategy&quot;<ul>
+<li><a href="https://i0.wp.com/lanziani.com/slides/gitflow/images/gitflow_1.png" target="_blank">GitHub Flow</a></li>
+<li><a href="https://littlekendra.com/images/release-flow.png" target="_blank">Basic Flow</a></li>
+</ul>
+</li>
+</ul>
+<h4 id="who-needs-to-know-git">Who needs to know Git?</h4>
+<ul>
+<li><strong>Should know (e.g. uses git day-to-day)</strong>: DevOps, Cloud Engineers, Software Engineers (front-end, back-end).</li>
+<li><strong>Nice to have (e.g. not using day-to-day)</strong>: Solutions Architect, Cloud Support.</li>
+</ul>
+<h4 id="main-things-to-know">Main things to know</h4>
+<p><strong>The simple + basic flow</strong></p>
+<ol>
+<li><code>git add file.txt</code> =&gt; Tells git to prepare to be committed.</li>
+<li><code>git commit -m &quot;a message&quot;</code> =&gt; Saves the change.</li>
+<li><code>git push</code> =&gt; Syncs the change with GitHub.</li>
+</ol>
+<p><strong>Useful other commands</strong></p>
+<ul>
+<li><code>git status</code> =&gt; This is &quot;home base&quot; on your current state. </li>
+<li><code>git push --set-upstream origin garcia-adding-search-feature</code> =&gt; Pushes a local branch to remote GitHub. </li>
+</ul>
+<h4 id="practice-example-scenario">Practice (example scenario)</h4>
+<ul>
+<li>You are an employee asked to &quot;make a website for clothing&quot;. </li>
+<li>Go and create the clothing website <code>repo</code>. </li>
+<li>Your first task is to create a &quot;homepage&quot;. </li>
+<li>Create a <code>branch</code> for your new task and add a <code>homepage.txt</code>. </li>
+<li><code>Push</code> the changes and open a pull request. </li>
+<li>Comment your own pull request as your &quot;colleague&quot;, who asks you to add an image to the homepage.</li>
+<li>Add a file &quot;image.txt&quot; and update the &quot;homepage.txt&quot; content. </li>
+<li><code>Commit</code> and push this change. </li>
+<li>Review your pull request. </li>
+<li>Approve the pull request. </li>
+<li><code>Merge</code> the pull request. </li>
+</ul>
+<p>Repeat the above until you feel more comfortable! </p>
+<h3 id="docker">Docker</h3>
+<p>Depending on the project you&apos;re building</p>
+<p><strong>Practice:</strong></p>
+<ol>
+<li>Installing the <code>docker</code> CLI on your machine</li>
+<li>Pulling a docker image from DockerHub</li>
+<li>Writing your own Dockerfile</li>
+</ol>
+<p><strong>Resources:</strong></p>
+<ul>
+<li><a href="https://www.youtube.com/watch?v=fqMOX6JJhGo" target="_blank">Docker Tutorial for Beginners - A Full DevOps Course on How to Run Applications in Containers</a></li>
+<li><a href="https://learntocloud.guide/#/phase4/README" target="_blank">Learn To Cloud Guide - Phase 4: DevOps Fundamentals</a> </li>
+</ul>
+<h3 id="shell-scripting">Shell scripting</h3>
+<p><strong>Practice:</strong></p>
+<ol>
+<li>Writing a short shell script</li>
+<li>Try to: print a strings</li>
+<li>Try to: do basic arithmatic, e.g. addition, subtraction</li>
+</ol>
+<p><strong>Resources:</strong></p>
+<ul>
+<li><a href="https://learntocloud.guide/#/phase1/README?id=phase-1-linux-bash-and-networking-fundamentals" target="_blank">Learn To Cloud Guide - Phase 1: Linux Bash and Networking fundamentals</a></li>
+<li><a href="https://www.youtube.com/watch?v=7qd5sqazD7k" target="_blank">Bash scripting will change your life</a></li>
 </ul>
 
                                 
@@ -569,12 +633,12 @@
 
             
                 
-                <a href="cloud-resume-challenge.html" class="navigation navigation-prev " aria-label="Previous page: Cloud Resume Challenge">
+                <a href="./" class="navigation navigation-prev " aria-label="Previous page: Choosing a project">
                     <i class="fa fa-angle-left"></i>
                 </a>
                 
                 
-                <a href="../networking/" class="navigation navigation-next " aria-label="Next page: Building your network">
+                <a href="faqs.html" class="navigation navigation-next " aria-label="Next page: FAQs">
                     <i class="fa fa-angle-right"></i>
                 </a>
                 
@@ -585,7 +649,7 @@
     <script>
         var gitbook = gitbook || [];
         gitbook.push(function() {
-            gitbook.page.hasChanged({"page":{"title":"Adrian Cantrill Labs","level":"6.4","depth":1,"next":{"title":"Building your network","level":"7.1","depth":1,"path":"networking/index.md","ref":"networking/index.md","articles":[]},"previous":{"title":"Cloud Resume Challenge","level":"6.3","depth":1,"path":"projects/cloud-resume-challenge.md","ref":"projects/cloud-resume-challenge.md","articles":[]},"dir":"ltr"},"config":{"gitbook":"*","theme":"default","variables":{},"plugins":[],"pluginsConfig":{"highlight":{},"search":{},"lunr":{"maxIndexSize":1000000,"ignoreSpecialCharacters":false},"sharing":{"facebook":true,"twitter":true,"google":false,"weibo":false,"instapaper":false,"vk":false,"all":["facebook","google","twitter","weibo","instapaper"]},"fontsettings":{"theme":"white","family":"sans","size":2},"theme-default":{"styles":{"website":"styles/website.css","pdf":"styles/pdf.css","epub":"styles/epub.css","mobi":"styles/mobi.css","ebook":"styles/ebook.css","print":"styles/print.css"},"showLevel":false}},"structure":{"langs":"LANGS.md","readme":"README.md","glossary":"GLOSSARY.md","summary":"SUMMARY.md"},"pdf":{"pageNumbers":true,"fontSize":12,"fontFamily":"Arial","paperSize":"a4","chapterMark":"pagebreak","pageBreaksBefore":"/","margin":{"right":62,"left":62,"top":56,"bottom":56}},"styles":{"website":"styles/website.css","pdf":"styles/pdf.css","epub":"styles/epub.css","mobi":"styles/mobi.css","ebook":"styles/ebook.css","print":"styles/print.css"}},"file":{"path":"projects/adrian-cantrill-labs.md","mtime":"2023-01-23T12:41:20.083Z","type":"markdown"},"gitbook":{"version":"3.2.3","time":"2023-01-23T12:58:39.777Z"},"basePath":"..","book":{"language":""}});
+            gitbook.page.hasChanged({"page":{"title":"Building Foundational Skills","level":"6.2","depth":1,"next":{"title":"FAQs","level":"6.3","depth":1,"path":"projects/faqs.md","ref":"projects/faqs.md","articles":[]},"previous":{"title":"Choosing a project","level":"6.1","depth":1,"path":"projects/index.md","ref":"projects/index.md","articles":[]},"dir":"ltr"},"config":{"gitbook":"*","theme":"default","variables":{},"plugins":[],"pluginsConfig":{"highlight":{},"search":{},"lunr":{"maxIndexSize":1000000,"ignoreSpecialCharacters":false},"sharing":{"facebook":true,"twitter":true,"google":false,"weibo":false,"instapaper":false,"vk":false,"all":["facebook","google","twitter","weibo","instapaper"]},"fontsettings":{"theme":"white","family":"sans","size":2},"theme-default":{"styles":{"website":"styles/website.css","pdf":"styles/pdf.css","epub":"styles/epub.css","mobi":"styles/mobi.css","ebook":"styles/ebook.css","print":"styles/print.css"},"showLevel":false}},"structure":{"langs":"LANGS.md","readme":"README.md","glossary":"GLOSSARY.md","summary":"SUMMARY.md"},"pdf":{"pageNumbers":true,"fontSize":12,"fontFamily":"Arial","paperSize":"a4","chapterMark":"pagebreak","pageBreaksBefore":"/","margin":{"right":62,"left":62,"top":56,"bottom":56}},"styles":{"website":"styles/website.css","pdf":"styles/pdf.css","epub":"styles/epub.css","mobi":"styles/mobi.css","ebook":"styles/ebook.css","print":"styles/print.css"}},"file":{"path":"projects/building-foundational-skills.md","mtime":"2023-01-24T08:59:44.274Z","type":"markdown"},"gitbook":{"version":"3.2.3","time":"2023-01-24T09:01:50.992Z"},"basePath":"..","book":{"language":""}});
         });
     </script>
 </div>
