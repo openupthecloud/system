@@ -1,4 +1,4 @@
-# Learning the CLI
+# Linux + CLI
 
 Learning to navigate the terminal and terminal CLI is a valuable skill for almost every cloud role. Here are some basic information and exercises to start to build your comfort and proficiency with the command line. If you need a Linux environment to work in, check out the [Open Cloud Dev Box](https://github.com/openupthecloud/open-cloud-dev-box). 
 
@@ -71,3 +71,7 @@ Some useful links:
 2. Find a way to update `policy.json` to remove the hardcoded reference to the bucketname
 3. Add an `error.html`, not just `index.html`
 4. Break down the scripts into two (one for creating the bucket, one for syncing the files)
+
+## Further reading
+
+- [Shell Scripting Tutorial](https://www.shellscript.sh)

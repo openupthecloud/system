@@ -23,6 +23,7 @@
 - [Product Manager](./roles/product-manager.md)                                                
 - [Quality Assurance - Engineer](./roles/quality-assurance-engineer.md)
 - [Quality Assurance - Manual](./roles/quality-assurance-manual.md)
+- [FAQs](roles/faqs.md)
 
 <!-- ### Skills
 
@@ -31,6 +32,7 @@
 ### Certs
 
 - [Choosing Certifications](certs/index.md)
+- [FAQs](certs/faqs.md)
 
 ### Projects
 
