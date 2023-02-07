@@ -4,6 +4,9 @@
 ### Getting Started
 
 - [Getting Started](getting-started/index.md)
+- [Git + GitHub](getting-started/git-github.md)
+- [Linux + CLI](getting-started/linux-cli.md)
+- [Docker](getting-started/docker.md)
 
 ### [Roles](roles/index.md)
 
@@ -21,9 +24,9 @@
 - [Quality Assurance - Engineer](./roles/quality-assurance-engineer.md)
 - [Quality Assurance - Manual](./roles/quality-assurance-manual.md)
 
-### Skills
+<!-- ### Skills
 
-- [Choosing Skills](skills/index.md)
+- [Choosing Skills](skills/index.md) -->
 
 ### Certs
 
@@ -32,7 +35,6 @@
 ### Projects
 
 - [Choosing a project](projects/index.md)
-- [Building Foundational Skills](projects/building-foundational-skills.md)
 - [FAQs](projects/faqs.md)
 
 <!-- TODO: Update these pages to bring them back -->
@@ -51,13 +53,13 @@
 
 - [Interviews, Resumes & Portfolios](interviews-resumes-portfolio/index.md)
 
-### Getting Promoted
+<!-- ### Getting Promoted
 
-- [Getting Promoted](getting-promoted/index.md)
+- [Getting Promoted](getting-promoted/index.md) -->
 
 ### Giving Back
 
-- [Giving Back](giving-back/index.md)
+<!-- - [Giving Back](giving-back/index.md) -->
 - [Blogging](giving-back/blogging.md)
 
 
