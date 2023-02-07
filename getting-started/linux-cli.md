@@ -74,4 +74,6 @@ Some useful links:
 
 ## Further reading
 
-- [Shell Scripting Tutorial](https://www.shellscript.sh)
+- [Blog - Shell Scripting Tutorial](https://www.shellscript.sh)
+- [YouTube - Bash Scripting Full Course 3 Hours](https://www.youtube.com/watch?v=e7BufAVwDiM)
+- [YouTube - Bash Shell Scripting Tutorial For Beginners - Bash Basics in 20 Minutes](https://www.youtube.com/watch?v=Zl7npywCB84)
