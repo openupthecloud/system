@@ -3,22 +3,16 @@
 
 > ⚠️ **This page is a work in progress!** Why not [support the project by contributing](https://github.com/openupthecloud/system)?
 
-### Key Skills
+**Description:** Typically supporting engineering teams with automation, deployment and monitoring type work. 
 
-1. Cloud
-2. Infra As Code
-3. CI/CD + Automation 
-4. Monitoring 
-5. Containers
+### Technical Skills
+
+1. Cloud (e.g. AWS)
+2. Infra As Code (e.g. Terraform)
+3. CI/CD + Automation (e.g. Jenkins or GitHub Actions)
+4. Monitoring (e.g. CloudWatch)
+5. Containers (e.g. Docker)
 6. Networking
-
-**Technologies**
-
-1. AWS
-2. Terraform
-3. Jenkins Or GitHub Actions
-4. CloudWatch
-5. Docker
 
 ### Roadmaps
 

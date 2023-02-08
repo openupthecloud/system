@@ -11,12 +11,10 @@ The system is broken down into several steps. You can start at any step, but if 
 
 - [Getting started](https://openupthecloud.github.io/system/getting-started)
 - [Choosing roles](https://openupthecloud.github.io/system/roles)
-- [Choosing skills](https://openupthecloud.github.io/system/skills)
 - [Choosing certifications](https://openupthecloud.github.io/system/certs)
 - [Choosing projects](https://openupthecloud.github.io/system/projects)
 - [Building your network](https://openupthecloud.github.io/system/networking)
 - [Interviewing, resumes & portfolios](https://openupthecloud.github.io/system/interviews-resumes-portfolio)
-- [Getting promoted](https://openupthecloud.github.io/system/getting-promoted)
 - [Giving back](https://openupthecloud.github.io/system/giving-back)
 
 ### Community

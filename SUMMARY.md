@@ -4,25 +4,27 @@
 ### Getting Started
 
 - [Getting Started](getting-started/index.md)
+
+---
+
 - [Git + GitHub](getting-started/git-github.md)
 - [Linux + CLI](getting-started/linux-cli.md)
 - [Docker](getting-started/docker.md)
 
 ### [Roles](roles/index.md)
 
-- [Choosing a role](roles/index.md)
-- [Backend Engineer](./roles/backend-engineer.md)                                              
+- [All Cloud Roles](roles/index.md)
+
+---
+
 - [Cloud Engineer](./roles/cloud-engineer.md)                                                  
-- [Data Engineer](./roles/data-engineer.md)                                                    
 - [Devops Engineer](./roles/devops-engineer.md)                                                
-- [Frontend Engineer](./roles/frontend-engineer.md)                                            
-- [Security Engineer](./roles/security-engineer.md)                                            
 - [Solutions Architect - Associate](./roles/solutions-architect-associate.md)           
-- [Solutions Architect - Traditional](./roles/solutions-architect-traditional.md) 
+- [Solutions Architect - Traditional](./roles/solutions-architect-traditional.md)           
 - [Support / Helpdesk](./roles/support-helpdesk.md)                                            
-- [Product Manager](./roles/product-manager.md)                                                
-- [Quality Assurance - Engineer](./roles/quality-assurance-engineer.md)
-- [Quality Assurance - Manual](./roles/quality-assurance-manual.md)
+
+---
+
 - [FAQs](roles/faqs.md)
 
 <!-- ### Skills
@@ -31,12 +33,18 @@
 
 ### Certs
 
-- [Choosing Certifications](certs/index.md)
+- [All Cloud Certifications](certs/index.md)
+
+---
+
 - [FAQs](certs/faqs.md)
 
 ### Projects
 
 - [Choosing a project](projects/index.md)
+
+---
+
 - [FAQs](projects/faqs.md)
 
 <!-- TODO: Update these pages to bring them back -->
@@ -63,6 +71,5 @@
 
 <!-- - [Giving Back](giving-back/index.md) -->
 - [Blogging](giving-back/blogging.md)
-
 
 Created by **Open Up The Cloud**. 
