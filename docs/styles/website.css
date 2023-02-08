@@ -46,3 +46,9 @@ h5 {
     color: white;
     text-decoration: none;
 }
+
+.book-summary ul.summary li.divider {
+    background: #cecece;
+    opacity: 0.2;
+    margin: -1px 15px;
+}
