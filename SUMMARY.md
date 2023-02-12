@@ -10,6 +10,7 @@
 - [Git + GitHub](getting-started/git-github.md)
 - [Linux + CLI](getting-started/linux-cli.md)
 - [Docker](getting-started/docker.md)
+- [AWS](getting-started/aws.md)
 
 ### [Roles](roles/index.md)
 

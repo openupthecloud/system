@@ -8,7 +8,7 @@ This section is to help you get your absolute start in cloud. If you're a method
 To get hands on: 
 
 1. **Python** - A basic scripting programming language. Good for data, cloud and web development.
-2. **AWS** - The most adopted cloud provider (The other big two: Google Cloud, Microsoft Azure)
+2. **[AWS](/getting-started/aws.md)** - The most adopted cloud provider (The other big two: Google Cloud, Microsoft Azure)
 
 <!-- TODO: Create dev-enved projects to start with here -->
 
