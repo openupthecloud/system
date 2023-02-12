@@ -35,9 +35,3 @@
 * ⚫️ **Often** - In MOST cases.
 * 🔵 **Sometimes** - In SOME cases.
 * ⚪️ **Rarely** - NOT in MOST cases.
-
-**Category**
-* **Cloud Developer** - Cloud Engineer, DevOps.
-* **Cloud Architect** -
-* **Cloud Architect** -
-* **Analyst**

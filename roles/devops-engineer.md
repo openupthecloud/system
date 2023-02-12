@@ -3,7 +3,7 @@
 
 > ⚠️ **This page is a work in progress!** Why not [support the project by contributing](https://github.com/openupthecloud/system)?
 
-**Description:** Typically supporting engineering teams with automation, deployment and monitoring type work. 
+**Description:** Typically supporting engineering teams with automation, deployment and monitoring type work. Similar to a [Cloud Engineer](/system/roles/cloud-engineer.md), except with more focus on automation, and more understanding of the development lifecycle. 
 
 ### Technical Skills
 
