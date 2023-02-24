@@ -25,7 +25,7 @@
 | Business Analyst                                                        | ⚪️ Rarely                                | ⚪️ Rarely                  |
 | Data Analyst                                                            | ⚫️ Often                                 | ⚪️ Rarely                  |
 | Consultant                                                              | ⚪️ Rarely                                | ⚪️ Rarely                  |
-| Sales Engineer                                                          | 🔵 Sometimes                             | ⚪️ Rarely                  |
+| Sales Engineer                                                          | 🔵 Sometimes                             | 🔵 Sometimes               |
 | Solution Engineering                                                    | ⚫️ Often                                 | 🔵 Sometimes               |
 | Scrum Master / Agile coach                                              | ⚪️ Rarely                                | ⚪️ Rarely                  |
 | Project/Program Manager                                                 | ⚪️ Rarely                                | 🔵 Sometimes               |
