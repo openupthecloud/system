@@ -9,6 +9,7 @@
     },
     "resolutions": {},
     "dependencies": {
-        "gitbook-cli": "github:gengjiawen/gitbook-cli"
+        "gitbook-cli": "github:gengjiawen/gitbook-cli",
+        "gitbook-plugin-scripts": "^1.0.2"
     }
 }
