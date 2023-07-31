@@ -21,9 +21,11 @@ The following are GitHub projects, collections of labs, etc. These are not "whol
 | ------------------------------------------------------------------------------------------------------- | ---------------- |
 | [AWS Labs](https://github.com/thyagomota/aws-labs)                                                      | GitHub Repo      |
 | [Adrian Cantrill Labs](./adrian-cantrill-labs.md)                                                       | GitHub Repo      |
-| [Udemy DevOps Projects Course](https://www.udemy.com/course/devopsprojects/?src=sac&kw=devops+projects) | Training Course  |
 | [TechChak](https://www.techchak.com/)                                                                   | Training Company |
 | [Darey](https://www.darey.io/)                                                                          | Training Company |
+[ [EduCloud Academy](https://educloud.academy/)                                                           | Training Company |
+| [Complete Coding Serverless Projects](https://completecoding.mykajabi.com/7-serverless-projects)        | Training Course  |
+| [Udemy DevOps Projects Course](https://www.udemy.com/course/devopsprojects/?src=sac&kw=devops+projects) | Training Course  |
 
 ## Example Projects
 
